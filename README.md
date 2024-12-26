@@ -50,4 +50,4 @@ This is a responsive **Myntra e-commerce clone** built using **React.js** and **
 
 ---
 
-Let me know if you'd like to tweak any section or add more details! 😊
+
